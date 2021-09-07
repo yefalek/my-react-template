@@ -15,6 +15,7 @@ Copy
 + https://create-react-app.dev/docs/getting-started
 + https://create-react-app.dev/docs/deployment#github-pages
 + https://github.com/goitacademy/react-lint-staged-workshop
++ https://drive.google.com/file/d/1EOewQyS7V9SHsUbbycwgTNqB59jwhFnG/view (deploy + create GH page)
 
 
 husky@7.0.2
